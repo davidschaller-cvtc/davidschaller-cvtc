@@ -31,3 +31,6 @@ I chose to run my server on Amazon Lightsail and provisioned an instance of the 
 ## 5. Conclusion
 
 **Final Outcome.** The Lightsail Server has been running for two months with the only downtime being a couple restarts for kernel updates. Regular maintenance includes applying security patches when needed. For instance, the recent PHP vulnerability was patched immediately.
+
+![Apache Running](/images/lightsail_md-SS01.png)
+*Caption: Apache server running on Debian 12 Amazon Lightsail instance.*
