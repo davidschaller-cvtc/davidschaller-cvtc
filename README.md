@@ -28,7 +28,7 @@ Having been involved with computing for over 40 years, I've completed too many p
 
 ### Personal
 
-* **Server Administration.** Installation, setup, andmaintenance of an Ubuntu Server on Amazon Lightsail with Apache web server configured for virtual hosts serving multiple websites with SSL and various domains and sumdomains.
+* [**Amazon Lightsail Instance.**](lightsail) Installation, setup, andmaintenance of an Ubuntu Server on Amazon Lightsail with Apache web server configured for virtual hosts serving multiple websites with SSL and various domains and sumdomains.
 * **Self-Hosted phpList.** Installed and configured phpList 3.7.0 from source on a public facing Apache web server utilizing Amazon AWS (Lightsail, SES, S3, Route 53), including configuring DKIM, SPF, and DMARC for reliable mail delivery. Migrated MySQL/MariaDB database.
 * **Music.** Installed and configured GrandOrgue software on a Linux host connected to an Allen MDS-35 MIDI-capable organ console.
 
